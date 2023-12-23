@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/0ycYXfw/Rectangle-2.png",
+    "alt": "An illustration of Introduction to C Programming course",
+    "title": "Introduction to C Programming",
+    "credit": 1,
+    "price": 15000,
+    "details": "Beginner's guide to C programming, covering fundamental concepts and syntax."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/Jych5WG/Rectangle-2-1.png",
+    "alt": "An illustration of Introduction to Algorithms course",
+    "title": "Introduction to Algorithms",
+    "credit": 2,
+    "price": 25000,
+    "details": "Overview of algorithms, their analysis, and their pivotal role in computer science."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/ZXZtmf9/Rectangle-2-2.png",
+    "alt": "An illustration of Introduction to C++ for DSA course",
+    "title": "Introduction to C++ for DSA",
+    "credit": 10,
+    "price": 10000,
+    "details": "C++ programming for data structures, algorithms, and effective problem-solving."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/5GJb8VP/Rectangle-3.png",
+    "alt": "An illustration of Basic Data Structures course",
+    "title": "Basic Data Structures",
+    "credit": 5,
+    "price": 35000,
+    "details": "Intro to fundamental data structures in programming, including lists, stacks, and queues."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/VqkfcTD/Rectangle-2-3.png",
+    "alt": "An illustration of Introduction to OOP Python course",
+    "title": "Introduction to OOP Python",
+    "credit": 5,
+    "price": 19000,
+    "details": "OOP in Python, focusing on practical examples, classes, objects, and inheritance."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/k9YChfm/Rectangle-2-4.png",
+    "alt": "An illustration of Software Engineering course",
+    "title": "Software Engineering",
+    "credit": 2,
+    "price": 23000,
+    "details": "In-depth look at software engineering principles, practices, and advanced methodologies."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/JnKrGWg/Rectangle-3-1.png",
+    "alt": "An illustration of AWS course",
+    "title": "AWS, Cloud Computing",
+    "credit": 5,
+    "price": 35000,
+    "details": "AWS powers cloud computing innovations worldwide, offering scalable solutions for diverse business needs."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/4dTkHvT/Rectangle-2-5.png",
+    "alt": "An illustration of Cloud Computing course",
+    "title": "Database (MySQL)",
+    "credit": 5,
+    "price": 19000,
+    "details": "MySQL is a popular open-source relational database management system used for storing and retrieving data."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/0B09LXL/Rectangle-2-6.png",
+    "alt": "An illustration of Database (MySQL) course",
+    "title": "Problem-Solving Part",
+    "credit": 2,
+    "price": 23000,
+    "details": "Effective problem-solving is the key to innovation and success in any endeavor. Learn valuable strategies today"
+  }
+]
