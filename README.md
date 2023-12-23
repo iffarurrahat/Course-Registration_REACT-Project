@@ -1,3 +1,6 @@
+# Project Name: Course-Registration
+# Project Live URL: [Course-Registration](https://effortless-smakager-791514.netlify.app/)
+
 <h3 className="text-3xl">Code Documents</h3>
 <p className="text-lg font-semibold">Setup:</p>
 <ol>
